@@ -58,9 +58,27 @@ Follow these steps to set up your development environment and install the projec
     This will install all the required packages and libraries.
 
 ## Usage
-   Use python to execute the script:
+Our project requires you to configure it with your own API token for authentication. Follow these steps to configure the project:
+
+1. **Obtain an API Token:**
+
+   To use our project, you'll need to obtain an API token from [Webex](https://developer.webex.com/docs/getting-started). This token is required for authentication and authorization.
+
+2. **Replace the Token in the Code:**
+
+   Open the project's source code (Bulk_import_workspaces.py) and locate the file or section where the API token needs to be provided. Look for a variable named `access_token`.
+
+3. **Insert Your API Token:**
+
+   Replace the placeholder `YOUR_API_TOKEN_HERE` with your actual API token obtained from [Webex Developper - Control Hub](https://developer.webex.com/docs/getting-started).
+
+4. **Save the Changes:**
+
+   Save the file with the updated token.
+
+5. **Execute the script:
    ```bash
-   python your_script.py
+   python Bulk_import_workspaces.py
    ```
 
 ## Contributing
