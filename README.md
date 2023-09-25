@@ -1,8 +1,6 @@
 # Bulk_import_workspaces_Cisco_Control_Hub
 
-# Your Project Name
-
-A brief description of what your project does and why it's interesting.
+Python script project to import Bulk Data to Control Hub in order to create Workspaces from a source of trust XLSX file.
 
 ## Table of Contents
 
