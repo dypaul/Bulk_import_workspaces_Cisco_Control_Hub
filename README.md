@@ -76,10 +76,13 @@ Our project requires you to configure it with your own API token for authenticat
 
    Save the file with the updated token.
 
-5. **Execute the script:
+5. **Execute the script:**
+   Now that you've configured the project with your API token, you can execute it as follows:
    ```bash
    python Bulk_import_workspaces.py
    ```
+
+**Note:** We recommend testing the script first on a Webex sandbox environment before using it in a production environment. You can create a sandbox account by following the instructions in the [Webex Developer Sandbox Guide](https://developer.webex.com/docs/developer-sandbox-guide).
 
 ## Contributing
 
