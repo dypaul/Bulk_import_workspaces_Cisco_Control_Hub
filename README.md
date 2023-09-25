@@ -8,7 +8,6 @@ A brief description of what your project does and why it's interesting.
 
 - [Installation](#installation)
 - [Usage](#usage)
-# - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
