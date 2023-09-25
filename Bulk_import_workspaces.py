@@ -3,7 +3,7 @@ import openpyxl
 from tqdm import tqdm
 
 # Source of truth file
-xlsx_file = "Bulk import workspaces.xlsx"
+xlsx_file = "Bulk_import_workspaces.xlsx"
 
 # Replace 'YOUR_ACCESS_TOKEN' with your authentication token
 access_token = 'YOUR_ACCESS_TOKEN'
