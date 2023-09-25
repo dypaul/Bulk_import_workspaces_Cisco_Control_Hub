@@ -8,12 +8,11 @@ A brief description of what your project does and why it's interesting.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
+# - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
-
 
 Follow these steps to set up your development environment and install the project's dependencies.
 
@@ -40,12 +39,12 @@ Follow these steps to set up your development environment and install the projec
     ```
    Activate the virtual environment:
 
-    * On Windows:
+   On Windows:
     ```bash
    venv\Scripts\activate
     ```
     
-    * On macOS and Linux:
+   On macOS and Linux:
   
     ```bash
    source venv/bin/activate
@@ -57,12 +56,22 @@ Follow these steps to set up your development environment and install the projec
     ```bash
     pip install -r requirements.txt
     ```
-    This will install all the required packages and libraries. 
+    This will install all the required packages and libraries.
 
+## Usage
+   Use python to execute the script:
+    ```bash
+   python your_script.py
+    ```
 
-   
+## Contributing
 
-2. **Install Requirements:**   
+   Code created with ChatGPT assistance
 
-```bash
-pip install -r requirements.txt
+   We welcome contributions from the community to improve and enhance this project. Whether you want to fix a bug, add a new feature, or simply improve the documentation, your help is greatly appreciated.
+
+## License
+
+   This project is open-source and available under the [MIT License](LICENSE.md).
+
+© Dylan PAUL (dypaul)
