@@ -1,6 +1,6 @@
 # Bulk_import_workspaces_Cisco_Control_Hub
 
-Python script project to import Bulk Data to Control Hub in order to create Workspaces from a source of trust XLSX file.
+Python script project to iBulk import of data to Control Hub in order to create Workspaces from a source of trust XLSX file.
 
 ## Table of Contents
 
@@ -58,23 +58,27 @@ Follow these steps to set up your development environment and install the projec
 ## Usage
 Our project requires you to configure it with your own API token for authentication. Follow these steps to configure the project:
 
-1. **Obtain an API Token:**
+1. **Fill out the spreedsheet**
+
+   Fill out the spreedsheet nammed Bulk_import_workspaces.xlsx for Bulk import of data to Control Hub in order to create Workspaces.
+
+2. **Obtain an API Token:**
 
    To use our project, you'll need to obtain an API token from [Webex Developper - Control Hub](https://developer.webex.com/docs/getting-started). This token is required for authentication and authorization.
 
-2. **Replace the Token in the Code:**
+3. **Replace the Token in the Code:**
 
    Open the project's source code (Bulk_import_workspaces.py) and locate the section where the API token needs to be provided. The variable named `access_token`.
 
-3. **Insert Your API Token:**
+4. **Insert Your API Token:**
 
    Replace the placeholder `YOUR_API_TOKEN_HERE` with your actual API token obtained from [Webex Developper - Control Hub](https://developer.webex.com/docs/getting-started).
 
-4. **Save the Changes:**
+5. **Save the Changes:**
 
    Save the file with the updated token.
 
-5. **Execute the script:**
+6. **Execute the script:**
    Now that you've configured the project with your API token, you can execute it as follows:
    ```bash
    python Bulk_import_workspaces.py
