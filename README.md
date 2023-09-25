@@ -59,9 +59,9 @@ Follow these steps to set up your development environment and install the projec
 
 ## Usage
    Use python to execute the script:
-    ```bash
+   ```bash
    python your_script.py
-    ```
+   ```
 
 ## Contributing
 
