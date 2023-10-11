@@ -1,6 +1,6 @@
 # Bulk_import_workspaces_Cisco_Control_Hub
 
-Python script project to iBulk import of data to Control Hub in order to create Workspaces from a source of trust XLSX file.
+Python script project to Bulk import of data to Control Hub in order to create Workspaces from a source of trust XLSX file.
 
 ## Table of Contents
 
